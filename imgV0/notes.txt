@@ -1,0 +1,11 @@
+-> make folder client where all the frontend react code will be written.
+
+-> change logo of web tab by changing favicon.svg link in index.html 
+
+-> npm install react-router-dom
+
+-> get embedded link from google fonts of font: Outfit and past the import link in index.css file
+   *{ font-family : Outfit} to implement Outfit font for all texts.
+
+-> building Homepage:
+   
