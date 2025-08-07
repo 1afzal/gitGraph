@@ -29,4 +29,4 @@ const makeCommits = (n, commitsPerDay = 3) => {
 };
 
 // Call with desired total days and commits per day
-makeCommits(100, 5); // 100 days, 5 commits per day
+makeCommits(50, 5); // 100 days, 5 commits per day
