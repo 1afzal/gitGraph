@@ -16,6 +16,7 @@
     "cors": "^2.8.5",
     "dotenv": "^16.4.7",
     "express": "^4.19.2",
+    "git-filter-repo": "^0.0.30",
     "mongoose": "^8.13.2"
   },
   "devDependencies": {
