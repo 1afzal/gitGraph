@@ -10,7 +10,7 @@ function Navbar(){
         
       <div className='flex justify-center flex-1'>
         <h1 className='text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-black  font-[PlayfairDisplay] text-center'>
-          The NewYork Times
+          Akbaar
         </h1>
       </div>
 
